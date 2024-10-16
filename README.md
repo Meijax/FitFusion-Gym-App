@@ -1,0 +1,1 @@
+FitFusionGym is a mobile fitness app designed to help users manage their workout schedules, track progress, and discover available fitness classes. It features user authentication, a personalized dashboard, and displays upcoming workouts and notifications to keep users engaged.
